@@ -13,7 +13,6 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/hostemail/cdn/main/live/tv
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Alan-Alana/IPTV/refs/heads/main/channl.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/IPTV-V4.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/IPTV-V6.m3u
-http://92.112.21.169:30000/mytv.m3u
 https://web.banye.tech:7777/tv/hlj.txt
 https://iptv.catvod.com/tv.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt
@@ -108,7 +107,6 @@ https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
 https://m3u.ibert.me/txt/y_g.txt
 http://xhztv.top/v6.txt
-http://1805842a.123nat.com:66/agent/2.txt
 https://gitee.com/tushaoyong/live/raw/master/接口/IPV6.txt
 http://tot.totalh.net/tttt.txt
 https://codeberg.org/sy147258/iptv/raw/branch/main/电视
