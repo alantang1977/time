@@ -1,5 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+https://gh.tryxd.cn/https://raw.githubusercontent.com/butterfly202400/dsy/refs/heads/main/ln2403.m3u
+http://209.141.59.146:50509/?type=m3u
+https://smart.pendy.dpdns.org/m3u/Smart.m3u
 http://lisha521.dynv6.net.fh4u.org/tv.txt
 https://judy.livednow.dpdns.org/ysp.m3u
 https://9877.kstore.space/Live/live.m3u
@@ -134,4 +137,3 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.
 https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://gh-proxy.com/raw.githubusercontent.com/wcb1969/iptv/main/重庆有线.txt
-
