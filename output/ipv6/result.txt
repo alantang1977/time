@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-02 07:18:31,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+2025-05-02 19:13:23,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 
 🍄┃广东频道┃🏡,#genre#
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -694,13 +694,14 @@ TVB翡翠台,https://345iptv.com/?act=play&token=dc1bc1fa919aba49d4719d69c838fcf
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-明珠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
 明珠台,https://bxtv.587788.xyz/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 明珠台,https://video.mytvsuper.xyz/live/61ea51c90fc0c71dab94749f05bb3c9209114e3aad97f551100bd3a133dc5608.m3u8?token=825716213175186
 无线明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 无线明珠,http://go1.bkpcp.top/tl/null-12
 无线明珠,http://cdn5.132.us.kg/live/mzt/stream.m3u8
 无线明珠,http://cdn.163.dedyn.io/live/mzt/stream.m3u8
+无线明珠,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 娛樂新聞台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 娛樂新聞台(HK),https://video.mytvsuper.xyz/live/258287d51f3d4f81ad035a85aa2d51309fa726e4cb66871406c55a25d5dc220e.m3u8?token=825716213175186
@@ -721,7 +722,7 @@ TVB翡翠台,https://345iptv.com/?act=play&token=dc1bc1fa919aba49d4719d69c838fcf
 無線新聞台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-无线新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw###HLS\\n
 无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://ali.hlspull.yximgs.com/live/5t6y7u8i9o0p1q2w3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5.flv#http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=2&hq#http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 无线新闻台,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
@@ -731,8 +732,10 @@ TVB翡翠台,https://345iptv.com/?act=play&token=dc1bc1fa919aba49d4719d69c838fcf
 有线新闻,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072
 TVBS新闻,https://video.mytvsuper.xyz/live/06a9c3fe3eae06e9ee9f5af9ed9c8d65212c24cdd2b1b156b0735e5e0e9d9d3d.m3u8?token=825716213175186
+TVBS新闻,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 TVBS欢乐,https://tv.iill.top/litv/4gtv-4gtv068
 TVBS欢乐,https://video.mytvsuper.xyz/live/c211c23609c1466598076b3667dec939eba287bc36ad92161c975064b440eb9f.m3u8?token=825716213175186
+TVBS欢乐,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,http://222.128.55.152:9080/live/hy.m3u8#https://gdfire2.67890123.cn:8088/live/hyxw.m3u8#http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8#https://stream1.freetv.fun/huan-yu-xin-wen-2.m3u8#https://stream1.freetv.fun/huan-yu-xin-wen-6.m3u8#http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8#https://tv.iill.top/litv/litv-longturn14#https://stream1.freetv.fun/huan-yu-xin-wen-5.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3002&tk=e503191f8e20#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9595&tk=e640d0a1bf70#https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#https://stream1.freetv.fun/huan-yu-xin-wen-7.m3u8#https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
@@ -796,11 +799,11 @@ HOYTV,https://345iptv.com/?act=play&token=e14264b740c71d5d8fea15a2771cb4d2&tid=g
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,https://cdn.163189.xyz/live/tvbp/stream.m3u8#https://cdn.163189.xyz/live/?id=tvbp#http://cdn5.1678520.xyz/live/?id=tvbp#http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://cdn.132.us.kg/live/tvbp/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=j2#http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e#https://stream1.freetv.fun/tvb-j2-1.m3u8#http://60.248.77.83/sat/hk011.flv#http://60.248.77.83/sat/hk031.flv#http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2###HLS\\n
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp###HLS\\n
 TVB Plus,http://cdn5.1678520.xyz/live/?id=tvbp
 TVB Plus,https://video.mytvsuper.xyz/live/1517e06b57598d4bb26eb0f6ad682d9fe2aabf3ca5e4cd85b5e81c6b9c3ae96a.m3u8?token=825716213175186
 TVB Plus,https://345iptv.com/?act=play&token=e3bdcc55bbc8bbcfb6e04b9f98407c95&tid=gt&id=8&p=0###WEB\\n
-TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8###HLS\\n
+TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=j2#http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e#https://stream1.freetv.fun/tvb-j2-1.m3u8#http://60.248.77.83/sat/hk011.flv#http://60.248.77.83/sat/hk031.flv#http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
 myTV SUPER FREE,https://video.mytvsuper.xyz/live/aae63710dbab5e5cf7354fe5ea8fba049561e3ddf945eacd6af7df3df7e13e63.m3u8?token=825716213141897
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv#http://m.osvs.asia:8000/bysid/99#http://php.jdshipin.com/TVOD/iptv.php?id=viutv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -825,6 +828,8 @@ Now星影台,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
 SUPER Kids Channel,https://video.mytvsuper.xyz/live/db38534544c5a61b806e3017888926dacdb321f19d67ad7ab4742a3888b7f1b4.m3u8?token=825716213141897
 amc电影台,https://video.mytvsuper.xyz/live/f12903bc3f78e88706f4769030290c4150d4a2e851c130cb3be0500c0752a1f5.m3u8?token=825716213175186
 amc电影台,https://tv.iill.top/litv/4gtv-4gtv017
+Hbo家庭台,https://smart.pendy.dpdns.org/Smart.php?id=fyi_twn
+AXN电影台,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 Channel 5 HD,https://video.mytvsuper.xyz/live/bc56f3e50937dc8a2ab51170ba955eae9bc4af608dd6f7c31354fdda818b4658.m3u8?token=825716213175186
 Channel 8 HD,https://video.mytvsuper.xyz/live/292458b6b11b80192392fb552ade075ba4a08d7f5bde8cbac2c26a73260919e2.m3u8?token=825716213175186
 Channel U HD,https://video.mytvsuper.xyz/live/562cea074addf671a572a7c7dc7cdcfe10fc1959b67e29384cbff64c29b57504.m3u8?token=825716213175186
@@ -833,11 +838,13 @@ RTHK 31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK 31,https://video.mytvsuper.xyz/live/63c7df825528f4ca260d30a0aa839b895c520d611906bf336dd2e50e19c35937.m3u8?token=825716213141897
 RTHK 31,http://cdn5.132.us.kg/live/rthk31/stream.m3u8
 RTHK 31,http://cdn.163.dedyn.io/live/rthk31/stream.m3u8
+RTHK 31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
 RTHK 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK 32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32#http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK 32,https://video.mytvsuper.xyz/live/37a8a2512fd7226d90556ed31653c79ddfc856aa16e982bd59e96a8bee707993.m3u8?token=825716213141897
 RTHK 32,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 RTHK 32,http://cdn.163.dedyn.io/live/rthk32/stream.m3u8
+RTHK 32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
 RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 RTHK 33,https://video.mytvsuper.xyz/live/2d5b43a8e4e8f8449bfa6b7963006481bca6cebde18994b774555d330fceb945.m3u8?token=825716213141897
 RTHK 34,https://video.mytvsuper.xyz/live/c128836068e41e54d0344f01efd1b63adc3cf72d69645d3d7cc4b6d7102d8b81.m3u8?token=825716213141897
@@ -846,6 +853,7 @@ RTHK 35,https://video.mytvsuper.xyz/live/03d983d9bf14526e3282ade2b288b417bcd2ec9
 澳门莲花,https://tv.iill.top/mo/lhws
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 Astr欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+Astr欢喜台,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
 中天亞洲台,https://tv.iill.top/litv/4gtv-4gtv109
 中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中天亞洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
@@ -881,6 +889,7 @@ Astr欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 龍華經典台,https://video.mytvsuper.xyz/live/52c407895568856df6bd78667578cfa3127a423d448897cffa75e0cca9a9ef63.m3u8?token=825716213141897
 龍華經典台,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龍華經典台,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
+龍華經典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 龍華電影台,https://tv.iill.top/litv/litv-longturn03
 龍華電影台,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
 龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
@@ -1003,6 +1012,7 @@ NewTV动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 纬来电影,http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 纬来电影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1###WEB\\n
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天戏剧,https://tv.iill.top/litv/4gtv-4gtv058
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
@@ -1016,6 +1026,8 @@ NewTV动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+东森洋片,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 
 🎥┃咪咕直播┃,#genre#
@@ -1094,7 +1106,7 @@ CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?#http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4759&tk=7d4ad8f156e3
 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 五星体育,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
