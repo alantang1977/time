@@ -1,5 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+
+http://gg.7749.org/z/0/dzh.txt
 http://api.mytv666.top/lives/free.php?type=txt
 https://iptv.catvod.com/tv.m3u
 https://framagit.org/knnnn/n/-/raw/main/j/kzb.py
