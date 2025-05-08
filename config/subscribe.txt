@@ -13,6 +13,12 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.t
 https://xn--pggp-rp5imh.v.nxog.top/m//tv/
 https://gh.tryxd.cn/https://raw.githubusercontent.com/butterfly202400/dsy/refs/heads/main/ln2403.m3u
 http://209.141.59.146:50509/?type=m3u
+https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt
+http://docker.livednow.dpdns.org/?type=m3u
+http://go8.myartsonline.com/zx/2/夏夏·源.txt
+http://go8.myartsonline.com/zx/2/AK47·港澳源.txt
+http://117.72.68.25:9230/latest.txt
+http://123.iptv6.icu/view.php/825c7e86e090bd17a6448db7d858281b.txt
 https://smart.pendy.dpdns.org/m3u/Smart.m3u
 https://judy.livednow.dpdns.org/ysp.m3u
 https://9877.kstore.space/Live/live.m3u
