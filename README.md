@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 - IPv6
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u
 ```
 
 - IPv4
