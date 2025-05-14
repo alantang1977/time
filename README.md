@@ -84,14 +84,14 @@
 ## 最新结果
 
 > [!IMPORTANT]\
-> 以下地址国内访问可能会失败，建议在前拼接代理地址使用，公众号可回复`CDN`获取
+
 
 ### 直播源
 
 - 默认
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u
 ```
 
 - IPv6
