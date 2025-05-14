@@ -103,7 +103,7 @@ https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/r
 - IPv4
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u
 ```
 
 ### 点播源
