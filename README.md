@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/alantang1977/X/main/Pictures/TangImage240.png" alt="logo"/>
-  <h1 align="center">PG源点播电视直播源</h1>
+  <h1 align="center">电视直播源</h1>
 </div>
 
 <div align="center">一个可高度自定义的IPTV接口更新项目📺，自定义频道菜单，自动获取直播源，测速验效后生成可用的结果，可实现『✨秒播级体验🚀』</div>
