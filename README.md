@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alantang1977/X/main/Pictures/TangImage240.png" alt="logo"/>
+  <img src="./static/images/Cheat_240.png" alt="logo"/>
   <h1 align="center">电视直播源</h1>
 </div>
 
