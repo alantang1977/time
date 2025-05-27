@@ -1,97 +1,94 @@
-🍎┃广东频道,#genre#
+🍄┃广东频道,#genre#
 广州综合
 广州新闻
-广东珠江
 广州影视频道
 广州电视台影视频道
 广州电视台法治频道
 广州南国都市频道
 4K南国都市频道
 广州竞赛频道
-广东体育
+广东珠江
+广东新闻
+广东卫视
 广东民生
-广东综艺
-广东影视
-经济科教
-岭南戏曲
-现代教育
 大湾区卫视
+广东体育
+江门综合
+江门侨乡生活
+佛山综合
+深圳卫视
+汕头综合
+汕头经济
+汕头文旅
+茂名综合
+茂名公共
 4KUHD
 纪实人文
 纪实科教
 金鹰纪实
 超级综艺
 
-🥝┃央视频道,#genre#
-CCTV1
-CCTV2
-CCTV3
-CCTV4
-CCTV5
-CCTV5+
-CCTV6
-CCTV7
-CCTV8
-CCTV9
-CCTV10
-CCTV11
-CCTV12
-CCTV13
-CCTV14
-CCTV15
-CCTV16
-CCTV17
-CCTV4K
-CCTV8K
-CETV1
-CETV2
-CETV4
-CETV5
+🍓┃央视频道,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-5
+CCTV-5+
+CCTV-6
+CCTV-7
+CCTV-8
+CCTV-9
+CCTV-10
+CCTV-11
+CCTV-12
+CCTV-13
+CCTV-14
+CCTV-15
+CCTV-16
+CCTV-17
+CETV-1
+CETV-2
+CETV-3
+CETV-4
 
-🥭┃卫视频道,#genre#
-山东卫视
-湖南卫视
-浙江卫视
+🐧┃卫视频道,#genre#
 东方卫视
-北京卫视
+浙江卫视
+湖南卫视
 江苏卫视
+广东卫视
+深圳卫视
+香港卫视
+北京卫视
+湖北卫视
+黑龙江卫视
 安徽卫视
 重庆卫视
-四川卫视
 东南卫视
-深圳卫视
-广东卫视
-广西卫视
-厦门卫视
-南方卫视
 甘肃卫视
+广西卫视
 贵州卫视
+海南卫视
 河北卫视
 河南卫视
-黑龙江卫视
-湖北卫视
-江西卫视
 吉林卫视
-内蒙古卫视
+江西卫视
 辽宁卫视
+内蒙古卫视
 宁夏卫视
 青海卫视
+山东卫视
+山西卫视
+陕西卫视
+四川卫视
+三沙卫视
 天津卫视
-海南卫视
+西藏卫视
 新疆卫视
 云南卫视
-西藏卫视
-海峡卫视
-兵团卫视
-黄河卫视
-安多卫视
-康巴卫视
-农林卫视
-三沙卫视
-延边卫视
-山东齐鲁卫视
 
-🏀┃湾区频道,#genre#
+🚂┃湾区频道,#genre#
 翡翠台
 凤凰中文
 凤凰资讯
@@ -132,16 +129,11 @@ Hoy 78
 天映频道粤
 天映频道国
 Viutv
-台视新闻台
-台视综合台
-台视TTV HD
 三立台湾
 三立新闻
 东森综合
 东森超视
 东森电影
-民视新闻台
-民视台湾台
 Now剧集
 Now华剧
 Now星影台
@@ -154,7 +146,7 @@ amc电影台
 Hbo原创台
 Hbo家庭台
 Hbo巨献台
-Hbo HD
+Hbo巨献备
 AXN电影台
 Channel 5 HD
 Channel 8 HD
@@ -167,8 +159,6 @@ RTHK 35
 RTHK 36
 中天亞洲台
 中天新聞台
-中天综合
-中天娱乐
 中視
 千禧經典台
 東森电影国
@@ -185,7 +175,6 @@ RTHK 36
 TVBS欢乐
 TVBS亚洲
 TVBS新闻
-TVBS HD
 三立台湾
 无线新闻
 三立新闻
@@ -200,66 +189,342 @@ Now华剧
 星卫娱乐
 卫视卡式
 
-🍉┃咪咕频道,#genre#
-CCTV-01咪咕
-CCTV-02咪咕
-CCTV-03咪咕
-CCTV-04咪咕
-CCTV-05咪咕
-CCTV-06咪咕
-CCTV-07咪咕
-CCTV-08咪咕
-CCTV-09咪咕
-CCTV-10咪咕
-CCTV-11咪咕
-CCTV-12咪咕
-CCTV-13咪咕
-CCTV-14咪咕
-CCTV-15咪咕
-CCTV-16咪咕
-CCTV-17咪咕
-CCTV4欧洲咪咕
-CCTV4欧洲咪咕
-CCTV4美洲咪咕
-CCTV-4咪咕欧洲
-CCTV-4咪咕美洲
-CCTV-5+咪咕
-CCTV-16咪咕
-CGT西语咪咕
-CGT阿语咪咕
-CGT法语咪咕
-家庭影院咪咕
-动作电影咪咕
-东方卫视咪咕
-江苏卫视咪咕
-陕西卫视咪咕
-湖北卫视咪咕
-江西卫视咪咕
-海南卫视咪咕
-军事大片咪咕
-热剧联播咪咕
-新片映厅咪咕
-Y+剧场台咪咕
+🅱┃台湾频道,#genre#
+愛爾達綜合台
+愛爾達娛樂台
+愛爾達影劇台
+愛爾達日韓台
+Hami MLB 台
+Hami 卡通台(免費)
+Hami 日漫台(免費)
+Hami 韓劇台
+Hami 韓劇台(免費)
+amc 電影台
+Asian Food Network 亞洲美食頻道
+BBC Cbeebies
+BBC Earth
+BBC Lifestyle
+BBC NEWS
+Bloomberg TV
+Cartoonito
+CatchPlay 電影台
+CNEX 紀實頻道
+CNN 國際新聞台
+CNN 頭條新聞台(HLN)
+CN 卡通頻道
+Discovery Asia
+Discovery DMAX
+Discovery EVE
+Discovery Science
+DreamWorks 夢工廠動畫
+Eurosport
+Global Trekker
+Love Nature
 
+🍎┃韩国频道,#genre#
+ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8$!
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$!
+Arirang Radio
+Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8$!
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$!
+BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8$!
+CGNTV South Korea,https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8$!
+Channel A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php$!
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8$!
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8$!
+CJB | SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8$!
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8$!
+DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8$!
+EBS E,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8$!
+EBS i,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$!
+EBS kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8$!
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8$!
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8$!
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8$!
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8$!
+FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8$!
+GCN24 Korean,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8$!
+Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8$!
+GoodTV,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8$!
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8$!
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8$!
+GugakTV 국악방송,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8$!
+HBTV HD,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8$!
+Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8$!
+Hyundai Home Shopping Plus,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8$!
+JCN TV,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8$!
+Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8$!
+JTBC,https://everylive.space/live/jtbc/livestream.m3u8$!
+JTV|SBS,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8$!
+KBC | SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8$!
+KBC TV,http://112.175.51.214:1935/live/myStream/playlist.m3u8$!
+KBC|SBS,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8$!
+KBS 1,http://mytv.dothome.co.kr/ch/public/1.php$!
+KBS 1TV,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8$!
+KBS 2,http://mytv.dothome.co.kr/ch/public/3.php$!
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php$!
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php$!
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php$!
+KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php$!
+KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8$!
+KBS Live DokDo
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php$!
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8$!
+KBS11,http://142.4.119.231:9080/hls/123456mr.m3u8$!
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php$!
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8$!
+KCTV1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8$!
+KFN,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8$!
+KNN SBS,https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8$!
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8$!
+Korean Song Channel,http://live.kytv.co.kr:8080/hls/stream.m3u8$!
+Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8$!
+Lotte OneTV,https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8$!
+MAD,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8$!
+MBC,http://142.4.119.231:9080/hls/2548359mr.m3u8$!
+MBC M,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630$!
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8$!
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$!
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8$!
+OBS,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8$!
+OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8$!
+RM24H,http://zzy789.xyz/douyu1.php?id=131977$!
+RTV,https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8$!
+SBS,http://1.245.74.5:1935/live/tv/.m3u8$!
+Shinsegae Shopping TV,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8$!
+Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8$!
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8$!
+TVN,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J$!
+TVN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?$!
+TVN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?$!
+W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8$!
+WBC,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8$!
+YTN,http://210.92.207.38:40001$!
+阿里郎Korea,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$!
+大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8$!
+韩国歌舞,https://vd3.bdstatic.com/mda-kasdx4z9kq62e918/sc/mda-kasdx4z9kq62e918.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D$!
+济州MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8$!
+江原岭东MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8$!
+丽水MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8$!
+木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$!
+庆南昌原本部MBC,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8$!
+新闻,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8$!
 
-🐟┃少儿频道,#genre#
-东森幼幼
-iFun动漫
-momo亲子
-黑莓动画
-嘉佳少儿
-卡酷少儿
+📚┃浙江频道,#genre#
+浙江钱江
+浙江钱江都市
+浙江钱江台
+浙江生活
+浙江经济生活
+浙江教育
+浙江民生
+浙江新闻
+浙江少儿
+杭州综合
+杭州明珠
+杭州西湖明珠
+杭州生活
+杭州影视
+杭州青少
+杭州少体
+杭州导视
+宁波TV1
+宁波TV2
+宁波TV3
+宁波TV4
+宁波TV5
+宁波电视台1套
+宁波电视台2套
+宁波电视台3套
+宁波电视台4套
+宁波4套影视
+NBTV-1
+NBTV-2
+NBTV-3
+NBTV-4
+浙江教科
+浙江经济
+之江纪录
+浙江国际
+嘉兴新闻综合
+嘉兴公共
+嘉兴文化影视
+丽水公共
+丽水新闻
+湖州公共
+湖州新闻综合
+湖州文化娱乐
+衢州公共
+衢州新闻综合
+金华教育科技
+金华新闻综合
+金华公共
+舟山新闻综合
+舟山公共
+温州新闻综合
+浙江经视
+浙江留学
+浙江民生休闲
+浙江松阳
+浙江数码时代
+浙江教科影院
+浙江教科影视
+浙江公共新闻
+浙江休闲台
+浙江龙泉
+浙江青田
+浙江遂昌
+诸暨新闻综合
+龙游生活娱乐
+龙游新闻综合
+龙泉新闻综合
+青田电视台
+镇海先锋影院
+金华都市农村
+金华公共
+鄞州二套
+鄞州一套
+遂昌综合
+遂昌新闻综合
+象山综合
+象山电视台新闻综合
+象山新闻综合
+衢江新闻综合
+萧山生活
+萧山新闻综合
+苍南新闻综合
+舟山群岛旅游
+舟山公共生活
+缙云综合
+缙云新闻综合
+绍兴电视台公共
+绍兴新闻综合
+绍兴文化影院
+绍兴文化影视
+绍兴公共
+湖州公共民生
+温州都市生活
+温州经济科教
+淳安电视台
+海盐新闻
+海宁生活服务
+海宁新闻综合
+洞头综合
+永嘉新闻综合
+武义新闻综合
+桐庐综合
+桐乡新闻综合
+松阳综合
+松阳新闻综合
+普陀电视台
+普陀新闻综合
+新昌生活
+新昌新闻综合
+文成综合
+文成新闻综合
+数码时代
+德清新闻综合
+德清文化生活
+开化新闻综合
+开化国家公园
+庆元综合
+庆元新闻综合
+平湖民生休闲
+平湖新闻综合
+嵊泗综合
+嵊泗新闻综合
+嵊州新闻综合
+北仑电视台
+兰溪新闻综合
+余杭综合
+余杭未来E
+余姚综合
+余姚新闻综合
+余姚姚江文化
+云和新闻综合
+义乌新闻综合
+中国蓝新闻
+东阳影视生活
+上虞新闻综合
+上虞新商都
+上虞文化影院
+上虞文化影视
+舟山公共生活
+舟山新闻综合
+舟山群岛旅游
+
+📚┃北京频道,#genre#
+北京卡酷少儿
+北京影院
+北京新闻
+北京生活
+北京科教
+北京财经
+北京青年
+BTV纪实
+清华大学电视台
+石景山有线
+通州电视台
+
+📚┃上海频道,#genre#
+七彩戏剧
+上海外语
+上海教育
+上海新闻综合
+上海点掌财经
+上海第一财经
+上海纪实
+上海都市
+上海金山电视台
+上视外语
+上视新闻
+东方影视
+东方财经
+全纪实
 动漫秀场
 哈哈炫动
-金鹰卡通
-优漫卡通
-靖洋卡通
-广东少儿
+嘉定电视台
+天水公共
+崇明电视台
+新闻综合
+欢笑剧场
+法治天地
+生活时尚
+第一财经
+纪实人文
+都市剧场
+金山电视台
+金色频道
 
-🐶┃影视频道,#genre#
-CHC动作电影
-CHC高清电影
+📚┃重庆频道,#genre#
+璧山综合
+万源新闻综合
+铜梁综合
+重庆汽摩
+荣昌综合
+璧山综合
+潼南综合
+涪陵电视台
+江津新闻综合
+武隆综合
+大足综合
+垫江综合
+北碚综合
+中国交通重庆
+万州综合
+万州三峡移民
+重庆新闻
+重庆时尚购物
+
+
+🎬┃电影频道,#genre#
 CHC家庭影院
+CHC动作电影
+动作电影
+CHC高清电影
+淘剧场
+淘娱乐
+淘电影
 NewTV惊悚悬疑
 NewTV动作电影
 黑莓电影
@@ -268,3 +533,143 @@ NewTV动作电影
 靖天戏剧
 星卫娱乐
 艾尔达娱乐
+经典电影
+IPTV经典电影
+天映经典
+无线星河
+星空卫视
+私人影院
+东森电影
+龙祥电影
+东森洋片
+东森超视
+
+💰┃央视付费频道,#genre#
+文化精品
+央视台球
+风云音乐
+第一剧场
+风云剧场
+怀旧剧场
+女性时尚
+高尔夫网球
+风云足球
+电视指南
+世界地理
+兵器科技
+
+🎥┃咪咕直播👀,#genre#
+咪咕直播1
+咪咕直播2
+咪咕直播3
+咪咕直播4
+咪咕直播5
+咪咕直播6
+咪咕直播7
+咪咕直播8
+咪咕直播9
+咪咕直播10
+咪咕直播11
+咪咕直播12
+咪咕直播13
+咪咕直播14
+咪咕直播15
+咪咕直播16
+咪咕直播17
+咪咕直播18
+咪咕直播19
+咪咕直播20
+咪咕直播21
+咪咕直播22
+咪咕直播23
+咪咕直播24
+咪咕直播25
+咪咕直播26
+咪咕直播27
+咪咕直播28
+咪咕直播29
+咪咕直播30
+咪咕直播31
+咪咕直播32
+咪咕直播33
+咪咕直播34
+咪咕直播35
+咪咕直播36
+咪咕直播37
+咪咕直播38
+咪咕直播39
+咪咕直播40
+咪咕直播41
+咪咕直播42
+咪咕直播43
+咪咕直播44
+咪咕直播45
+
+🏀┃体育频道,#genre#
+CCTV-5
+CCTV-5+
+广东体育
+纬来体育
+五星体育
+体育赛事
+劲爆体育
+爱体育
+超级体育
+精品体育
+广州竞赛
+深圳体育
+福建体育
+辽宁体育
+山东体育
+成都体育
+天津体育
+江苏体育
+安徽综艺体育
+吉林篮球
+睛彩篮球
+睛彩羽毛球
+睛彩广场舞
+风云足球
+足球频道
+魅力足球
+天元围棋
+快乐垂钓
+JJ斗地主
+
+📚┃动画频道,#genre#
+少儿动画
+卡酷动画
+动漫秀场
+新动漫
+青春动漫
+爱动漫
+中录动漫
+宝宝动画
+CN卡通
+优漫卡通
+金鹰卡通
+睛彩少儿
+黑莓动画
+炫动卡通
+24H国漫热播
+浙江少儿
+河北少儿科教
+七龙珠
+火影忍者
+海绵宝宝
+中华小当家
+斗破苍穹玄幻剧
+猫和老鼠
+经典动漫
+蜡笔小新
+漫画解说
+
+🎵┃音乐频道,#genre#
+CCTV-15
+风云音乐
+音乐现场
+音乐之声
+潮流音乐
+天津音乐
+音乐广播
+音乐调频广播
