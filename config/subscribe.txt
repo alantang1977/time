@@ -46,14 +46,6 @@ http://dd.rihou.cc:555/gggg.nzk
 # http://rihou.cc:555/gggg.nzk
 # 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)  同源 猫TV 肥猫
 # http://rihou.cc:567/gggg.nzk
-
-# https://github.com/1757580896 的地址
-https://raw.githubusercontent.com/1757580896/iptv-api1/refs/heads/master/output/result.txt
-https://raw.githubusercontent.com/1757580896/collect-tv-txt/refs/heads/main/live_lite.txt
-https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
-https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
-https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt
-
 https://raw.githubusercontent.com/chunme/Live/main/hlj.m3u # 888
 https://raw.githubusercontent.com/chunme/Live/main/mdj.m3u # PLtV
 
@@ -155,18 +147,8 @@ https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
 https://m3u.ibert.me/txt/y_g.txt
 http://xhztv.top/v6.txt
-https://gitee.com/tushaoyong/live/raw/master/接口/IPV6.txt
-https://codeberg.org/sy147258/iptv/raw/branch/main/电视
-https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-CU-ipv6.m3u
-https://a90120.serv00.net/anbox/p3plink.txt
-https://7337.kstore.space/twkj/tvzb.txt
-http://8.138.7.223/live.txt
-https://live.iptv365.org/live.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt
-https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u
-https://gh.tryxd.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt
-https://iptv.b2og.com/txt/fmml_ipv6.txt
-http://box.1890222.xyz:8081/iptv/live.m3u
+
+
 https://gh-proxy.com/raw.githubusercontent.com/wcb1969/iptv/main/重庆有线.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
