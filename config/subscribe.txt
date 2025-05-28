@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+http://1.94.31.214/live/livelite.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/80947108/888/refs/heads/main/tv/FGlive.txt
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 
