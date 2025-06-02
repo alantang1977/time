@@ -1,5 +1,5 @@
 🍄┃广东频道,#genre#
-广州综合
+广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-10.m3u8
 广州新闻
 广州影视频道
 广州电视台影视频道
@@ -187,9 +187,15 @@ CETV-4
 云南卫视
 
 🚂┃湾区频道,#genre#
-翡翠台
-凤凰中文
-凤凰资讯
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台(字幕版),https://iptv.vip-tptv.xyz/cao.php?id=feicui
+翡翠台(字幕版),https://mytv.cdn.com.mp/hls/fct/playlist.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 tvN
 PopC
 J2
@@ -197,11 +203,13 @@ J2
 Pearl 明珠台
 无线明珠
 娛樂新聞台(HK)
-娱乐新闻台
+娱乐新闻台，http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
 無線新聞台
-无线新闻台
-有线新闻
-TVBS新闻
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+有线新闻，
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS欢乐
 寰宇新聞台
 now新闻
