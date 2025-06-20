@@ -21,9 +21,6 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: 安装依赖
-        run: pip install requests
-
       - name: 运行去重脚本
         run: |
           python config/dedup_subscribe.py
