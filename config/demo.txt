@@ -318,6 +318,10 @@ CNEX 紀實頻道
 CNN 國際新聞台
 CNN 頭條新聞台(HLN)
 CN 卡通頻道
+松視1臺
+松視2臺
+松視2台
+松視3台
 Discovery Asia
 Discovery DMAX
 Discovery EVE
