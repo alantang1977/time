@@ -1,6 +1,14 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://cnb.cool/junchao.tang/llive/-/git/raw/main/TG收集.m3u
+https://115.190.105.236/vip/hnuc.m3u
+https://115.190.105.236/vip/vip.m3u
+https://since1986.fun/vip/qwt.m3u
+https://d.kstore.dev/download/13045/港澳台外.txt
+http://is.is-great.org/i/0947307.txt
+http://gg.7749.org/z/i/HKTV28.txt
+http://bx.757888.xyz/bxtv.m3u
 http://is.is-great.org/i/9892017.txt
 https://mm.qiuye.us.kg/6.txt
 http://gg.7749.org//i/ds.txt
@@ -46,12 +54,12 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/lbxxxtw2/clash/refs/heads/
 https://gh.tryxd.cn/https://raw.githubusercontent.com/mai761/iptv-subscription/refs/heads/main/My.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/mai761/iptv-subscription/refs/heads/main/zgyd.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/song
+https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/go.txt
 https://yun.urldwz.com/f/Q6y3ca/migu.m3u
 https://cccimg.com/down.php/bff36da26c7fa82e6943f3f55014cb80.txt
 http://ys.my.to/i/?T=ydyw
 http://smt.iktv.ddns-ip.net/Smart.php
 https://fel.forxhr.top:2022/down.php/ffd769867d9207f9641336d45d2277f2.全球txt
-https://cnb.cool/junchao.tang/llive/-/git/raw/main/影视频道
 https://mpimg.cn/down.php/1cc967ebb95af61e470206f557c6d0f3.txt
 https://smt.iktv.ddns-ip.net/Smart.php
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/myTV.txt
