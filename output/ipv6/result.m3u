@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-07-15 11:41:25
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-07-17 11:41:11
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -1075,6 +1075,8 @@ https://www.freetv.top/migu/608807416.m3u8?migutoken=f8021878f57d5e1d12978bc60df
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4美洲.png" group-title="🥎┃移动央卫",CCTV4美洲
 http://live.catvod.com/catvod.php?id=cctv4a
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4美洲.png" group-title="🥎┃移动央卫",CCTV4美洲
+https://live.catvod.com/catvod.php?id=cctv4a
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="🥎┃移动央卫",CGTN阿拉伯语
 https://cc06.tv12.xyz/18.m3u8
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="🥎┃移动央卫",CGTN阿拉伯语
@@ -1149,6 +1151,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226666/1.m3u8
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225664/10000100000000060000000000145884_0.smil/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="🥎┃移动央卫",CGTN
 http://goo.bkpcp.top/mg/cgtn
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="🥎┃移动央卫",CGTN
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226666/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="🥎┃移动央卫",东方卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="🥎┃移动央卫",东方卫视
@@ -1353,6 +1357,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🥎┃移动央卫",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🥎┃移动央卫",大湾区卫视
+http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥎┃移动央卫",湖北卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥎┃移动央卫",湖北卫视
@@ -2059,6 +2065,8 @@ https://www.freetv.top/migu/608807416.m3u8?migutoken=f8021878f57d5e1d12978bc60df
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4美洲.png" group-title="🚁┃咪咕央卫",CCTV4美洲
 http://live.catvod.com/catvod.php?id=cctv4a
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4美洲.png" group-title="🚁┃咪咕央卫",CCTV4美洲
+https://live.catvod.com/catvod.php?id=cctv4a
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="🚁┃咪咕央卫",CGTN阿拉伯语
 https://cc06.tv12.xyz/18.m3u8
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="🚁┃咪咕央卫",CGTN阿拉伯语
@@ -2133,6 +2141,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226666/1.m3u8
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225664/10000100000000060000000000145884_0.smil/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="🚁┃咪咕央卫",CGTN
 http://goo.bkpcp.top/mg/cgtn
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="🚁┃咪咕央卫",CGTN
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226666/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="🚁┃咪咕央卫",东方卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="🚁┃咪咕央卫",东方卫视
@@ -2337,6 +2347,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🚁┃咪咕央卫",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🚁┃咪咕央卫",大湾区卫视
+http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🚁┃咪咕央卫",湖北卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🚁┃咪咕央卫",湖北卫视
@@ -3103,6 +3115,8 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="🍓┃央视频道",CETV-3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="🍓┃央视频道",CETV-3
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226722/1.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🍓┃央视频道",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🍓┃央视频道",CETV-4
@@ -6630,7 +6644,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬┃电影频道",CHC家庭影院
 http://k.061899.xyz/k.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬┃电影频道",CHC动作电影
-http://z.b.bkpcp.top/m.php?id=dzdy#http://148.135.93.213/live.php?id=CHC动作电影#http://148.135.93.213:81/live.php?id=CHC动作电影
+http://z.b.bkpcp.top/m.php?id=dzdy#http://118.89.87.74:88/live.php?id=CHC动作电影#http://148.135.93.213:81/live.php?id=CHC动作电影
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬┃电影频道",CHC动作电影
 http://eastscreen.tv/ooooo.php?id=chcdz###HLS\\n
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬┃电影频道",CHC动作电影
