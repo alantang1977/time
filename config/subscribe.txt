@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
 http://ox.my.to/8/2762947.txt
 https://d.kstore.dev/download/7905/tv.m3u
 http://go8.myartsonline.com/zx/0/dzh.txt
