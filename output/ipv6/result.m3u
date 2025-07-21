@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-07-19 11:48:03
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-07-21 12:11:57
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -1391,6 +1391,10 @@ http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🥎┃移动央卫",大湾区卫视
 http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🥎┃移动央卫",大湾区卫视
+http://live.chinacert.cftest5.cn/mgtv/608917627.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🥎┃移动央卫",大湾区卫视
+https://live.lizanyang.top/tv/康巴卫视.png" grouptitle="卫视",康巴卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥎┃移动央卫",湖北卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥎┃移动央卫",湖北卫视
@@ -2383,6 +2387,10 @@ http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🚁┃咪咕央卫",大湾区卫视
 http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🚁┃咪咕央卫",大湾区卫视
+http://live.chinacert.cftest5.cn/mgtv/608917627.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="🚁┃咪咕央卫",大湾区卫视
+https://live.lizanyang.top/tv/康巴卫视.png" grouptitle="卫视",康巴卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🚁┃咪咕央卫",湖北卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🚁┃咪咕央卫",湖北卫视
@@ -4220,8 +4228,6 @@ http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台(字幕版)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台(字幕版).png" group-title="🚂┃湾区频道",翡翠台(字幕版)
 http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 #EXTINF:-1 tvg-name="翡翠台(字幕版)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台(字幕版).png" group-title="🚂┃湾区频道",翡翠台(字幕版)
-https://mytv.cdn.com.mp/hls/fct/playlist.m3u8
-#EXTINF:-1 tvg-name="翡翠台(字幕版)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台(字幕版).png" group-title="🚂┃湾区频道",翡翠台(字幕版)
 https://live.tvfix.org/live/jade/3/v700000/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台(字幕版)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台(字幕版).png" group-title="🚂┃湾区频道",翡翠台(字幕版)
 https://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -4247,6 +4253,8 @@ https://zjtv01.tv12.xyz/%E7%BF%A1%E7%BF%A0%E5%8F%B0
 https://www.zhixun.com.mp/zx.php?id=mytv86
 #EXTINF:-1 tvg-name="翡翠台(字幕版)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台(字幕版).png" group-title="🚂┃湾区频道",翡翠台(字幕版)
 https://012v4.pendy.dpdns.org/hls/3672252c-bea6-40ce-b186-e2072a0fd9f9/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台(字幕版)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台(字幕版).png" group-title="🚂┃湾区频道",翡翠台(字幕版)
+https://smt.1789.dpdns.org/smt3.2.1.php?id=Wlt
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🚂┃湾区频道",凤凰资讯
 http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🚂┃湾区频道",凤凰资讯
@@ -4925,6 +4933,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=fyi_twn
 https://www.zhixun.com.mp/zx.php?id=hbo33
 #EXTINF:-1 tvg-name="AXN电影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN电影台.png" group-title="🚂┃湾区频道",AXN电影台
 https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
+#EXTINF:-1 tvg-name="AXN电影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN电影台.png" group-title="🚂┃湾区频道",AXN电影台
+http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 5 HD.png" group-title="🚂┃湾区频道",Channel 5 HD
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 5 HD.png" group-title="🚂┃湾区频道",Channel 5 HD
@@ -6879,6 +6889,12 @@ https://www.zhixun.com.mp/zx.php?id=vimv
 http://php.jdshipin.com:8880/xsj.php?id=videoland-movie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬┃电影频道",纬来电影
 https://hls-gateway.vpstv.net/streams/477063.m3u8
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬┃电影频道",纬来电影
+http://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬┃电影频道",纬来电影
+https://live.catvod.com/smart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬┃电影频道",纬来电影
+http://lzo.tv.inf.ua/lgz.php?id=videolandmovie_twn
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬┃电影频道",靖天映画
 https://tv.iill.top/litv/4gtv-4gtv055
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬┃电影频道",靖天映画
@@ -6943,6 +6959,8 @@ http://php.jdshipin.com:8880/smt.php?id=Celestial2
 https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬┃电影频道",天映经典
 http://free.cnlive.club/channel/n7e49c99a.m3u8
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬┃电影频道",天映经典
+http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道",无线星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🎬┃电影频道",无线星河
@@ -6995,6 +7013,8 @@ https://hls-gateway.vpstv.net/streams/476997.m3u8
 https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬┃电影频道",东森洋片
 http://free.cnlive.club/channel/7cb8b9f4.m3u8
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬┃电影频道",东森洋片
+http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬┃电影频道",东森超视
 https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬┃电影频道",东森超视
