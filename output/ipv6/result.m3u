@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-07-25 11:40:52
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-07-27 11:49:06
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -920,8 +920,6 @@ http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🥎┃移动央卫",CCTV12社会与法
 http://goo.bkpcp.top/mg/cctv12
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🥎┃移动央卫",CCTV12社会与法
-http://223.241.247.214:9901/tsfile/live/0012_1.m3u8#http://61.156.228.12:8154/tsfile/live/0012_1.m3u8#http://58.221.214.82:9901/tsfile/live/0012_1.m3u8#http://116.9.204.242:9901/tsfile/live/0012_1.m3u8#http://58.220.219.14:9901/tsfile/live/0012_1.m3u8#http://220.164.192.48:50085/tsfile/live/0013_1.m3u8#http://123.138.22.30:9901/tsfile/live/0012_1.m3u8#http://222.169.85.8:9901/tsfile/live/0012_1.m3u8#http://b.zgjok.com:35455/itv/1000000005000265012.m3u8?cdn=ystenlive#http://125.89.163.44:8888/udp/239.77.1.109:5146#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.3.134.56:9901/tsfile/live/0012_1.m3u8#http://183.66.15.146:60901/tsfile/live/0012_1.m3u8#http://183.66.15.146:60901/tsfile/live/0012_1.m3u8?key=txiptv#http://120.76.248.139/live/bfgd/4200000131.m3u8#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8#http://60.7.56.33:4000/rtp/239.253.92.197:6062#http://113.57.20.158:9901/tsfile/live/1031_1.m3u8#http://61.136.67.238:50085/tsfile/live/0012_1.m3u8#http://nas.hssvm.com:8888/udp/225.1.1.142:5002#http://61.157.139.15:9901/tsfile/live/2382_1.m3u8#http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv12#http://goo.bkpcp.top/mg/cctv12#http://z.b.bkpcp.top/m.php?id=cctv12#http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🥎┃移动央卫",CCTV12社会与法
 https://hls-gateway.vpstv.net/streams/476898.m3u8
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🥎┃移动央卫",CCTV12社会与法
 https://fenghuang.tv12.xyz/13.m3u8
@@ -945,6 +943,8 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType
 http://wouu.net:9977/udp/239.93.1.30:8124
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🥎┃移动央卫",CCTV12社会与法
 http://b.j.bkpcp.top/bjyd/cctv12
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🥎┃移动央卫",CCTV12社会与法
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw185877003_-533945400/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?icpid=3&RTS=1668594980&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13新闻.png" group-title="🥎┃移动央卫",CCTV13新闻
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13新闻.png" group-title="🥎┃移动央卫",CCTV13新闻
@@ -1940,8 +1940,6 @@ http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🚁┃咪咕央卫",CCTV12社会与法
 http://goo.bkpcp.top/mg/cctv12
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🚁┃咪咕央卫",CCTV12社会与法
-http://223.241.247.214:9901/tsfile/live/0012_1.m3u8#http://61.156.228.12:8154/tsfile/live/0012_1.m3u8#http://58.221.214.82:9901/tsfile/live/0012_1.m3u8#http://116.9.204.242:9901/tsfile/live/0012_1.m3u8#http://58.220.219.14:9901/tsfile/live/0012_1.m3u8#http://220.164.192.48:50085/tsfile/live/0013_1.m3u8#http://123.138.22.30:9901/tsfile/live/0012_1.m3u8#http://222.169.85.8:9901/tsfile/live/0012_1.m3u8#http://b.zgjok.com:35455/itv/1000000005000265012.m3u8?cdn=ystenlive#http://125.89.163.44:8888/udp/239.77.1.109:5146#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.3.134.56:9901/tsfile/live/0012_1.m3u8#http://183.66.15.146:60901/tsfile/live/0012_1.m3u8#http://183.66.15.146:60901/tsfile/live/0012_1.m3u8?key=txiptv#http://120.76.248.139/live/bfgd/4200000131.m3u8#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8#http://60.7.56.33:4000/rtp/239.253.92.197:6062#http://113.57.20.158:9901/tsfile/live/1031_1.m3u8#http://61.136.67.238:50085/tsfile/live/0012_1.m3u8#http://nas.hssvm.com:8888/udp/225.1.1.142:5002#http://61.157.139.15:9901/tsfile/live/2382_1.m3u8#http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv12#http://goo.bkpcp.top/mg/cctv12#http://z.b.bkpcp.top/m.php?id=cctv12#http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🚁┃咪咕央卫",CCTV12社会与法
 https://hls-gateway.vpstv.net/streams/476898.m3u8
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🚁┃咪咕央卫",CCTV12社会与法
 https://fenghuang.tv12.xyz/13.m3u8
@@ -1965,6 +1963,8 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType
 http://wouu.net:9977/udp/239.93.1.30:8124
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🚁┃咪咕央卫",CCTV12社会与法
 http://b.j.bkpcp.top/bjyd/cctv12
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12社会与法.png" group-title="🚁┃咪咕央卫",CCTV12社会与法
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw185877003_-533945400/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?icpid=3&RTS=1668594980&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13新闻.png" group-title="🚁┃咪咕央卫",CCTV13新闻
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13新闻.png" group-title="🚁┃咪咕央卫",CCTV13新闻
@@ -2968,8 +2968,6 @@ http://goo.bkpcp.top/mg/cctv12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道",CCTV-12
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道",CCTV-12
-http://223.241.247.214:9901/tsfile/live/0012_1.m3u8#http://61.156.228.12:8154/tsfile/live/0012_1.m3u8#http://58.221.214.82:9901/tsfile/live/0012_1.m3u8#http://116.9.204.242:9901/tsfile/live/0012_1.m3u8#http://58.220.219.14:9901/tsfile/live/0012_1.m3u8#http://220.164.192.48:50085/tsfile/live/0013_1.m3u8#http://123.138.22.30:9901/tsfile/live/0012_1.m3u8#http://222.169.85.8:9901/tsfile/live/0012_1.m3u8#http://b.zgjok.com:35455/itv/1000000005000265012.m3u8?cdn=ystenlive#http://125.89.163.44:8888/udp/239.77.1.109:5146#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.3.134.56:9901/tsfile/live/0012_1.m3u8#http://183.66.15.146:60901/tsfile/live/0012_1.m3u8#http://183.66.15.146:60901/tsfile/live/0012_1.m3u8?key=txiptv#http://120.76.248.139/live/bfgd/4200000131.m3u8#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv#http://124.128.73.58:9901/tsfile/live/0012_1.m3u8#http://60.7.56.33:4000/rtp/239.253.92.197:6062#http://113.57.20.158:9901/tsfile/live/1031_1.m3u8#http://61.136.67.238:50085/tsfile/live/0012_1.m3u8#http://nas.hssvm.com:8888/udp/225.1.1.142:5002#http://61.157.139.15:9901/tsfile/live/2382_1.m3u8#http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv12#http://goo.bkpcp.top/mg/cctv12#http://z.b.bkpcp.top/m.php?id=cctv12#http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道",CCTV-12
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226736/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227343/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道",CCTV-12
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
@@ -2985,6 +2983,8 @@ https://www.freetv.top/migu/673168185.m3u8?migutoken=a099c4781935e65ce141b770794
 http://13937899.xyz:35455/gaoma/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道",CCTV-12
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🍓┃央视频道",CCTV-12
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226479/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🍓┃央视频道",CCTV-13
 http://z.b.bkpcp.top/m.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🍓┃央视频道",CCTV-13
@@ -4555,6 +4555,8 @@ https://zjtv01.tv12.xyz/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/有线新闻.png" group-title="🚂┃湾区频道",有线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/有线新闻.png" group-title="🚂┃湾区频道",有线新闻
+http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🚂┃湾区频道",TVBS新闻
 https://live.iill.top/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🚂┃湾区频道",TVBS新闻
