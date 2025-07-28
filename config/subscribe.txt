@@ -1,6 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://7220.kstore.space/sxrtv.txt
+https://since1986.online/epg/live.m3u
 https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py
 https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
 http://ox.my.to/8/2762947.txt
