@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://qu.ax/MWZsS.txt
 https://7220.kstore.space/sxrtv.txt
 https://since1986.online/epg/live.m3u
 https://since1986.online/epg/mix.m3u
