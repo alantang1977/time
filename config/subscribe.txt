@@ -1,7 +1,9 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+http://47.91.17.126:20002/SmartTV000.m3u
 https://qu.ax/MWZsS.txt
+http://1.94.31.214/live/livelite.txt
 https://7220.kstore.space/sxrtv.txt
 https://since1986.online/epg/live.m3u
 https://since1986.online/epg/mix.m3u
