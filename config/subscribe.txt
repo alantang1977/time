@@ -56,7 +56,6 @@ http://wx.thego.cn/backup.m3u
 https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 https://smart.pendy.dpdns.org/m3u/Smart.m3u
 https://smart.pendy.dpdns.org/m3u/iptv-gongyi.m3u
-https://raw.githubusercontent.com/lbxxxtw2/clash/refs/heads/main/new.txt
 https://raw.githubusercontent.com/mai761/iptv-subscription/refs/heads/main/My.m3u
 https://raw.githubusercontent.com/mai761/iptv-subscription/refs/heads/main/zgyd.m3u
 https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/song
