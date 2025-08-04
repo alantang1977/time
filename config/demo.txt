@@ -28,92 +28,6 @@
 金鹰纪实
 超级综艺
 
-🥎┃移动央卫,#genre#
- CCTV1综合,http://183.189.97.61:35455/mgtv/608807420.m3u8
- CCTV2财经,http://183.189.97.61:35455/mgtv/631780532.m3u8
- CCTV3综艺,http://183.189.97.61:35455/mgtv/624878271.m3u8
- CCTV4中文国际,http://183.189.97.61:35455/mgtv/631780421.m3u8
- CCTV5体育,http://183.189.97.61:35455/mgtv/641886683.m3u8
- CCTV5+体育赛事,http://183.189.97.61:35455/mgtv/641886773.m3u8
- CCTV6电影,http://183.189.97.61:35455/mgtv/624878396.m3u8
- CCTV7国防军事,http://183.189.97.61:35455/mgtv/673168121.m3u8
- CCTV8电视剧,http://183.189.97.61:35455/mgtv/624878356.m3u8
- CCTV9纪录,http://183.189.97.61:35455/mgtv/673168140.m3u8
- CCTV10科教,http://183.189.97.61:35455/mgtv/624878405.m3u8
- CCTV11戏曲,http://183.189.97.61:35455/mgtv/667987558.m3u8
- CCTV12社会与法,http://183.189.97.61:35455/mgtv/673168185.m3u8
- CCTV13新闻,http://183.189.97.61:35455/mgtv/608807423.m3u8
- CCTV14少儿,http://183.189.97.61:35455/mgtv/624878440.m3u8
- CCTV15音乐,http://183.189.97.61:35455/mgtv/673168223.m3u8
- CCTV17农业农村,http://183.189.97.61:35455/mgtv/673168256.m3u8
- CCTV4欧洲,http://183.189.97.61:35455/mgtv/608807419.m3u8
- CCTV4美洲,http://183.189.97.61:35455/mgtv/608807416.m3u8
- CGTN外语纪录,http://183.189.97.61:35455/mgtv/609006487.m3u8
- CGTN阿拉伯语,http://183.189.97.61:35455/mgtv/609154345.m3u8
- CGTN西班牙语,http://183.189.97.61:35455/mgtv/609006450.m3u8
- CGTN法语,http://183.189.97.61:35455/mgtv/609006476.m3u8
- CGTN俄语,http://183.189.97.61:35455/mgtv/609006446.m3u8
- 老故事,http://183.189.97.61:35455/mgtv/884121956.m3u8
- 发现之旅,http://183.189.97.61:35455/mgtv/624878970.m3u8
- 中学生,http://183.189.97.61:35455/mgtv/708869532.m3u8
- CGTN,http://183.189.97.61:35455/mgtv/609017205.m3u8
- 东方卫视,http://183.189.97.61:35455/mgtv/651632648.m3u8
- 江苏卫视,http://183.189.97.61:35455/mgtv/623899368.m3u8
- 广东卫视,http://183.189.97.61:35455/mgtv/608831231.m3u8
- 江西卫视,http://183.189.97.61:35455/mgtv/783847495.m3u8
- 河南卫视,http://183.189.97.61:35455/mgtv/790187291.m3u8
- 陕西卫视,http://183.189.97.61:35455/mgtv/738910838.m3u8
- 大湾区卫视,http://183.189.97.61:35455/mgtv/608917627.m3u8
- 湖北卫视,http://183.189.97.61:35455/mgtv/947472496.m3u8
- 吉林卫视,http://183.189.97.61:35455/mgtv/947472500.m3u8
- 青海卫视,http://183.189.97.61:35455/mgtv/947472506.m3u8
- 东南卫视,http://183.189.97.61:35455/mgtv/849116810.m3u8
- 海南卫视,http://183.189.97.61:35455/mgtv/947472502.m3u8
- 海峡卫视,http://183.189.97.61:35455/mgtv/849119120.m3u8
-
-🚁┃咪咕央卫,#genre#
- CCTV1综合,http://115.190.105.236:35455/mgtv/608807420.m3u8
- CCTV2财经,http://115.190.105.236:35455/mgtv/631780532.m3u8
- CCTV3综艺,http://115.190.105.236:35455/mgtv/624878271.m3u8
- CCTV4中文国际,http://115.190.105.236:35455/mgtv/631780421.m3u8
- CCTV5体育,http://115.190.105.236:35455/mgtv/641886683.m3u8
- CCTV5+体育赛事,http://115.190.105.236:35455/mgtv/641886773.m3u8
- CCTV6电影,http://115.190.105.236:35455/mgtv/624878396.m3u8
- CCTV7国防军事,http://115.190.105.236:35455/mgtv/673168121.m3u8
- CCTV8电视剧,http://115.190.105.236:35455/mgtv/624878356.m3u8
- CCTV9纪录,http://115.190.105.236:35455/mgtv/673168140.m3u8
- CCTV10科教,http://115.190.105.236:35455/mgtv/624878405.m3u8
- CCTV11戏曲,http://115.190.105.236:35455/mgtv/667987558.m3u8
- CCTV12社会与法,http://115.190.105.236:35455/mgtv/673168185.m3u8
- CCTV13新闻,http://115.190.105.236:35455/mgtv/608807423.m3u8
- CCTV14少儿,http://115.190.105.236:35455/mgtv/624878440.m3u8
- CCTV15音乐,http://115.190.105.236:35455/mgtv/673168223.m3u8
- CCTV17农业农村,http://115.190.105.236:35455/mgtv/673168256.m3u8
- CCTV4欧洲,http://115.190.105.236:35455/mgtv/608807419.m3u8
- CCTV4美洲,http://115.190.105.236:35455/mgtv/608807416.m3u8
- CGTN外语纪录,http://115.190.105.236:35455/mgtv/609006487.m3u8
- CGTN阿拉伯语,http://115.190.105.236:35455/mgtv/609154345.m3u8
- CGTN西班牙语,http://115.190.105.236:35455/mgtv/609006450.m3u8
- CGTN法语,http://115.190.105.236:35455/mgtv/609006476.m3u8
- CGTN俄语,http://115.190.105.236:35455/mgtv/609006446.m3u8
- 老故事,http://115.190.105.236:35455/mgtv/884121956.m3u8
- 发现之旅,http://115.190.105.236:35455/mgtv/624878970.m3u8
- 中学生,http://115.190.105.236:35455/mgtv/708869532.m3u8
- CGTN,http://115.190.105.236:35455/mgtv/609017205.m3u8
- 东方卫视,http://115.190.105.236:35455/mgtv/651632648.m3u8
- 江苏卫视,http://115.190.105.236:35455/mgtv/623899368.m3u8
- 广东卫视,http://115.190.105.236:35455/mgtv/608831231.m3u8
- 江西卫视,http://115.190.105.236:35455/mgtv/783847495.m3u8
- 河南卫视,http://115.190.105.236:35455/mgtv/790187291.m3u8
- 陕西卫视,http://115.190.105.236:35455/mgtv/738910838.m3u8
- 大湾区卫视,http://115.190.105.236:35455/mgtv/608917627.m3u8
- 湖北卫视,http://115.190.105.236:35455/mgtv/947472496.m3u8
- 吉林卫视,http://115.190.105.236:35455/mgtv/947472500.m3u8
- 青海卫视,http://115.190.105.236:35455/mgtv/947472506.m3u8
- 东南卫视,http://115.190.105.236:35455/mgtv/849116810.m3u8
- 海南卫视,http://115.190.105.236:35455/mgtv/947472502.m3u8
- 海峡卫视,http://115.190.105.236:35455/mgtv/849119120.m3u8
-
 🍓┃央视频道,#genre#
 CCTV-1
 CCTV-2
@@ -175,15 +89,10 @@ CETV-4
 云南卫视
 
 🚂┃湾区频道,#genre#
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台(字幕版),https://iptv.vip-tptv.xyz/cao.php?id=feicui
-翡翠台(字幕版),https://mytv.cdn.com.mp/hls/fct/playlist.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+翡翠台
+翡翠台(字幕版)
+凤凰资讯
+凤凰中文
 tvN
 PopC
 J2
@@ -191,13 +100,10 @@ J2
 Pearl 明珠台
 无线明珠
 娛樂新聞台(HK)
-娱乐新闻台，http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
+娱乐新闻台
 無線新聞台
-无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-有线新闻，
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+有线新闻
+TVBS新闻
 TVBS欢乐
 寰宇新聞台
 now新闻
@@ -319,94 +225,6 @@ Eurosport
 Global Trekker
 Love Nature
 
-🍎┃韩国频道,#genre#
-TVN,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J$!
-TVN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?$!
-TVN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?$!
-W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8$!
-ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8$!
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$!
-Arirang Radio
-Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8$!
-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$!
-BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8$!
-CGNTV South Korea,https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8$!
-Channel A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php$!
-CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8$!
-CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8$!
-CJB | SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8$!
-CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8$!
-DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8$!
-EBS E,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8$!
-EBS i,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$!
-EBS kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8$!
-EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8$!
-EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8$!
-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8$!
-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8$!
-FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8$!
-GCN24 Korean,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8$!
-Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8$!
-GoodTV,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8$!
-GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8$!
-GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8$!
-GugakTV 국악방송,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8$!
-HBTV HD,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8$!
-Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8$!
-Hyundai Home Shopping Plus,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8$!
-JCN TV,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8$!
-Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8$!
-JTBC,https://everylive.space/live/jtbc/livestream.m3u8$!
-JTV|SBS,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8$!
-KBC | SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8$!
-KBC TV,http://112.175.51.214:1935/live/myStream/playlist.m3u8$!
-KBC|SBS,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8$!
-KBS 1,http://mytv.dothome.co.kr/ch/public/1.php$!
-KBS 1TV,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8$!
-KBS 2,http://mytv.dothome.co.kr/ch/public/3.php$!
-KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php$!
-KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php$!
-KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php$!
-KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php$!
-KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8$!
-KBS Live DokDo
-KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php$!
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8$!
-KBS11,http://142.4.119.231:9080/hls/123456mr.m3u8$!
-KBS24,http://mytv.dothome.co.kr/ch/catv/1.php$!
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8$!
-KCTV1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8$!
-KFN,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8$!
-KNN SBS,https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8$!
-Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8$!
-Korean Song Channel,http://live.kytv.co.kr:8080/hls/stream.m3u8$!
-Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8$!
-Lotte OneTV,https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8$!
-MAD,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8$!
-MBC,http://142.4.119.231:9080/hls/2548359mr.m3u8$!
-MBC M,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630$!
-MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8$!
-NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$!
-NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8$!
-OBS,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8$!
-OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8$!
-RM24H,http://zzy789.xyz/douyu1.php?id=131977$!
-RTV,https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8$!
-SBS,http://1.245.74.5:1935/live/tv/.m3u8$!
-Shinsegae Shopping TV,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8$!
-Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8$!
-TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8$!
-WBC,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8$!
-YTN,http://210.92.207.38:40001$!
-阿里郎Korea,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$!
-大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8$!
-韩国歌舞,https://vd3.bdstatic.com/mda-kasdx4z9kq62e918/sc/mda-kasdx4z9kq62e918.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D$!
-济州MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8$!
-江原岭东MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8$!
-丽水MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8$!
-木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$!
-庆南昌原本部MBC,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8$!
-新闻,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8$!
 
 📚┃浙江频道,#genre#
 浙江钱江
