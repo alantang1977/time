@@ -17,11 +17,7 @@ http://go8.myartsonline.com/zx/0/dzh.txt
 http://is.is-great.org/i/2758810.txt
 http://kds.shanxixr.com/migu01.txt
 http://is.is-great.org/i/0885557.txt
-https://115.190.105.236/vip/qwt.m3u
-https://115.190.105.236/vip/vip.m3u
 https://live.catvod.com/mq.php?catvod.com=m3u
-http://183.189.97.61:35455/tv.m3u
-http://115.190.105.236:35455/tv.m3u
 https://since1986.fun/epg/mix.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/TG收集.m3u
 https://d.kstore.dev/download/13045/港澳台外.txt
@@ -29,7 +25,6 @@ http://is.is-great.org/i/0947307.txt
 http://bx.757888.xyz/bxtv.m3u
 http://gg.7749.org//i/ds.txt
 http://go8.myartsonline.com/zx/0/TVBTV28.txt
-https://tv.920410.dpdns.org/any.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/4gtv.txt
 http://go8.myartsonline.com/zx/0/港澳4Gtv.txt
 https://d.kstore.dev/download/9071/全网通限时.txt
