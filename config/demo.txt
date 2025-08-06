@@ -188,8 +188,6 @@ Now华剧
 靖天资讯
 星卫娱乐
 卫视卡式
-
-🅱┃台湾频道,#genre#
 愛爾達綜合台
 愛爾達娛樂台
 愛爾達影劇台
@@ -225,6 +223,80 @@ Eurosport
 Global Trekker
 Love Nature
 
+🅱┃台湾频道,#genre#
+TVBS News 新闻台
+TVBS 欢乐台
+TVBS HD
+中天新闻 HD
+中天娱乐 CTI Entertaiment
+中天综合 CTI Metro
+中天亚洲台
+台视 TTV HD
+台视新闻台
+台视综合台
+中视 HD
+中视新闻台
+民视 HD
+民视新闻台 FTV News
+民视台湾台
+华视 CTS HD
+公视 CTV
+八大第一 GTV First
+八大综合 GTV Metro
+八大戏剧 GTV Drama
+八大娱乐 GTV Entertainment
+HBO_HD
+HBO_HITS
+Hollywood Movies
+三立台湾 Sanli Taiwan
+三立戏剧台
+三立综合 Sanli Metro
+三立都会台
+东森新闻 ETTV News
+CINEMAX
+东森综合 ETTV Metro
+东森戏剧 ETTV Drama
+东森超视
+东森财经新闻 ETTV Business
+寰宇财经
+寰宇新闻台
+公视2
+大爱1台
+非凡新闻台
+龙华戏剧 Lunghua Drama
+龙华经典台
+龙华偶像
+AXN Taiwan
+靖天国际台
+年代新闻
+纬来日本台
+纬来电影台
+纬来体育台
+纬来综合台
+纬来育乐
+纬来精彩
+大爱2台
+亚洲美食
+美食星球
+亚洲旅游 TLC Asia
+东森电影 ETTV Movie
+阿里郎 Arirang
+东森洋片 ETTV Western
+龙华洋片 Lunghua Western
+博斯无限
+MTV Live
+龙详时代
+EYETV 旅游
+靖天卡通台
+EYETV 戏剧
+卫视中文台 Star Movies Chinese
+东森幼幼 Yoyo TV
+卫视电影台
+美亚电影
+爱尔达影剧台
+爱尔达综合台
+星卫电影
+AFC 亚洲旅游台
 
 📚┃浙江频道,#genre#
 浙江钱江
