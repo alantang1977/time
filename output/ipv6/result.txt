@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-01 10:38:29,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+2025-10-03 10:26:28,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 
 🍄┃广东频道,#genre#
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -2283,6 +2283,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 万州三峡移民,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?zzhongqd
 万州三峡移民,https://wanzhoulive.cbg.cn/c2F0hmi/1000/live.m3u8
 重庆新闻,http://ls.qingting.fm/live/1498.m3u8
+重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 
 🎬┃电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy#http://148.135.93.213/live.php?id=CHC家庭影院#http://8.138.7.223/tv/migu3.php?id=chcjtdy#http://148.135.93.213:81/live.php?id=CHC家庭影院
