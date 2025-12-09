@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 11:03:59,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2025-12-09 10:56:45,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1099,6 +1099,7 @@ Animax,https://hls-gateway.vpstv.net/streams/709503.m3u8
 Animax,https://tmxk.pp.ua/smt.php?id=Animax
 Animax,https://tzh911.qzz.io/play-smt.php?id=Animax
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
 美亚电影台,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 美亚电影国,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影国,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
@@ -1162,6 +1163,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-3.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-5.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-6.m3u8
+新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
@@ -1210,6 +1212,7 @@ Discovery Asia,https://hls-gateway.vpstv.net/streams/476648.m3u8
 Discovery Asia,https://tmxk.pp.ua/smt.php?id=discoverytwn_twn
 Discovery Asia,https://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
 Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 Discovery DMAX,https://hls-gateway.vpstv.net/streams/708900.m3u8
 Discovery Science,https://hls-gateway.vpstv.net/streams/708903.m3u8
 Global Trekker,http://2099.tv12.xyz/41_1764036427126.m3u8
@@ -1221,6 +1224,7 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 TVBS HD,https://tmxk.pp.ua/smt.php?id=tvbs
 TVBS HD,https://tzh911.qzz.io/play-smt.php?id=tvbs
 TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
+TVBS HD,https://smt.go-iptv.ggff.net/smart.php?id=tvbs&token=Goiptv
 中天新闻 HD,https://tmxk.pp.ua/smt.php?id=ctinews
 中天娱乐 CTI Entertaiment,https://tmxk.pp.ua/smt.php?id=ctient
 中天综合 CTI Metro,https://tmxk.pp.ua/smt.php?id=ctizhonghe
@@ -1249,10 +1253,12 @@ TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 HBO_HD,https://tmxk.pp.ua/smt.php?id=hbohd_twn
 HBO_HD,https://tzh911.qzz.io/play-smt.php?id=hbohd_twn
 HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+HBO_HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
 HBO_HITS,https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
 HBO_HITS,https://tmxk.pp.ua/smt.php?id=hbohit_twn
 HBO_HITS,https://tzh911.qzz.io/play-smt.php?id=hbohit_twn
 HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+HBO_HITS,https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
 Hollywood Movies,https://tmxk.pp.ua/smt.php?id=hollywoodmovies_twn
 三立台湾 Sanli Taiwan,https://tmxk.pp.ua/smt.php?id=sanlitaiwan
 三立戏剧台,https://tmxk.pp.ua/smt.php?id=sanlixiju_twn
@@ -1319,6 +1325,7 @@ CINEMAX,https://live.catvod.com/live.php?id=Cinemax&token=0a04357b0ebdb7d04ea22f
 AXN Taiwan,https://tmxk.pp.ua/smt.php?id=axn_twn
 AXN Taiwan,https://tzh911.qzz.io/play-smt.php?id=axn_twn
 AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 靖天国际台,https://tmxk.pp.ua/smt.php?id=jingtianintl_twn
 年代新闻,https://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
 年代新闻,https://stream1.freetv.fun/nian-dai-xin-wen-7.m3u8
@@ -1388,6 +1395,7 @@ AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
 MTV Live,https://tmxk.pp.ua/smt.php?id=mtvhd_twn
 MTV Live,https://tzh911.qzz.io/play-smt.php?id=mtvhd_twn
 MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
 龙详时代,https://tmxk.pp.ua/smt.php?id=lungxiangtime_twn
 EYETV 旅游,https://tmxk.pp.ua/smt.php?id=eyetvtravel_twn
 靖天卡通台,https://tmxk.pp.ua/smt.php?id=jingtiancartoon_twn
