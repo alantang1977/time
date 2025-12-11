@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 10:56:45,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2025-12-11 10:59:09,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1000,6 +1000,7 @@ Viu6,https://tmxk.pp.ua/smt.php?id=viusix_twn
 民视,https://stream1.freetv.fun/min-shi-6.ctv
 民视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14937
 民视,https://stream1.freetv.fun/min-shi-1.m3u8
+民视,https://stream1.freetv.fun/min-shi-10.m3u8
 中视,https://stream1.freetv.fun/zhong-shi-6.m3u8
 中视,https://stream1.freetv.fun/zhong-shi-8.m3u8
 中视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv040/index.m3u8
@@ -1095,12 +1096,14 @@ TVB星河,https://migu.188766.xyz/?migutoken=b38135e23f9df2e28b18ac0904e0b332&id
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,https://migu.188766.xyz/?migutoken=d1ad4d52750140ef3ac0a03b2b1a1be2&id=hk_tvbxh&type=dy
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 Animax,https://hls-gateway.vpstv.net/streams/709503.m3u8
 Animax,https://tmxk.pp.ua/smt.php?id=Animax
 Animax,https://tzh911.qzz.io/play-smt.php?id=Animax
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
 Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
 美亚电影台,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影国,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影国,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 HOYTV,https://stream1.freetv.fun/hoy-tv-3.m3u8
@@ -1445,6 +1448,7 @@ AFC 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=t
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-2.ctv
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-10.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-9.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-3.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv
@@ -2181,6 +2185,7 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3
 CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef366a1870f56c11b57c90.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
+音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 
 🏛┃经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
