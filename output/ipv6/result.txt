@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 10:59:09,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2025-12-13 10:37:38,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -53,6 +53,7 @@
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-8.m3u8
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-10.ctv
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+南国都市,http://r.jdshipin.com/nWaZO
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,https://smt.858.qzz.io/Smart.php?id=zhujiang
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
@@ -948,6 +949,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 翡翠台,https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv
 iNews 新闻台,https://tmxk.pp.ua/smt.php?id=inews_twn
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 珍珠台,https://tmxk.pp.ua/smt.php?id=pearl_twn
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -961,9 +963,12 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 RHK 31,https://tmxk.pp.ua/smt.php?id=rhk31_twn
+RHK 31,http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8
 VIUTV1,https://tmxk.pp.ua/smt.php?id=viu1_twn
+VIUTV1,http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
 RHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
 RHK 32,https://tmxk.pp.ua/smt.php?id=rhk32_twn
+RHK 32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
@@ -971,6 +976,7 @@ RHK 32,https://tmxk.pp.ua/smt.php?id=rhk32_twn
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,https://tmxk.pp.ua/smt.php?id=phoenixtv_hd
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -982,6 +988,7 @@ RHK 32,https://tmxk.pp.ua/smt.php?id=rhk32_twn
 凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 Viu6,https://tmxk.pp.ua/smt.php?id=viusix_twn
+Viu6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 公视,https://live.catvod.com/live.php?id=ctv_taiwan&token=e6e033173aaedf87dfca5c98503d898325a9e152af1a07d74c7b45c517615700%3A1763342477%3ANTIuMTczLjIzNy4yMTE%3D
 公视,https://hls-gateway.vpstv.net/streams/476984.m3u8
 公视,https://live.catvod.com/live.php?id=ctv_taiwan&token=c0d6d7aac2a483b75061aa7f1f881f91ef7cc3407e3f2d0913b36a27483fd77b%3A1763515103%3AMTcyLjE4NC4xNzMuMjQz
@@ -1052,6 +1059,7 @@ tvN,https://live.catvod.com/live.php?id=TVN&token=f8e2feef262a06b1bbeebe2e716838
 tvN,https://live.catvod.com/live.php?id=TVN&token=8c68243271b5aa9081fa458ae74de630b1e24f31f2d7423a9bec0f6ec02be105%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
 tvN,https://live.catvod.com/live.php?id=TVN&token=ee910190391afde8c8e640ae69e771be6ba0976cda64640b473b8ae419d8a670%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 tvN,https://live.catvod.com/live.php?id=TVN&token=36af95b5efffb21474e411bbad1d0604708037b5034953a14de0b395d0f9a046%3A1764379082%3AMTM1LjExOS4yMzYuNTE%3D
+PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -2186,6 +2194,8 @@ CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef3
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
+音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
+音乐广播,https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 
 🏛┃经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
