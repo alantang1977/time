@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-19 10:58:20,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2025-12-21 11:02:29,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1218,6 +1218,7 @@ BBC Lifestyle,https://hls-gateway.vpstv.net/streams/709100.m3u8
 BBC Lifestyle,https://hls-gateway.vpstv.net/streams/709577.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
 Bloomberg TV,http://2099.tv12.xyz/12_1764036427126.m3u8
+Bloomberg TV,https://4gtv.mytvsuper.xyz/4gtv/283
 Discovery Asia,https://hls-gateway.vpstv.net/streams/708899.m3u8
 Discovery Asia,https://hls-gateway.vpstv.net/streams/476648.m3u8
 Discovery Asia,https://tmxk.pp.ua/smt.php?id=discoverytwn_twn
@@ -1227,6 +1228,7 @@ Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=
 Discovery DMAX,https://hls-gateway.vpstv.net/streams/708900.m3u8
 Discovery Science,https://hls-gateway.vpstv.net/streams/708903.m3u8
 Global Trekker,http://2099.tv12.xyz/41_1764036427126.m3u8
+Global Trekker,https://4gtv.mytvsuper.xyz/4gtv/252
 Love Nature,http://2099.tv12.xyz/56_1764036427126.m3u8
 
 🅱┃台湾频道,#genre#
@@ -2201,6 +2203,8 @@ CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef3
 音乐广播,https://tv.iill.top/fm/552&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 音乐广播,https://tv.iill.top/fm/552&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
 音乐广播,https://tv.iill.top/fm/552&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
+音乐广播,https://tv.iill.top/fm/552&token=8eb49dbdca153f1b269c3d18030c7d754f1ea8306af7b6503a4d10a766eeb388
+音乐广播,https://tv.iill.top/fm/552&token=cc873b50be6a990b17d9c88af404d74c691731b4e235b182fc911be142ca9d18
 
 🏛┃经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
