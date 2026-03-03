@@ -1,10 +1,10 @@
-更新日期: 2026-3-1 06:40:58,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+更新日期: 2026-3-3 07:57:14,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东移动,http://183.11.239.36:808/hls/14/index.m3u8
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 衡山综合,https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
 龙山综合,https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
@@ -38,7 +38,6 @@
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 庆元电视台,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -70,7 +69,6 @@
 海伦市综合,https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
 大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
 大兴安岭新闻综合,https://rmplive.hljtv.com/live/daxinganling.m3u8
-宁都综合,http://play-a2.quklive.com/live/1749084198822069.flv
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
@@ -78,6 +76,8 @@
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 砚山县电视台,http://live.ynurl.com/video/s10020-ystv-zb/index.m3u8
 西畴县电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
@@ -98,6 +98,7 @@
 蒙自电视台,http://live.ynurl.com/video/s10019-mzdst/index.m3u8
 昌宁县电视台,http://live.ynurl.com/video/s10047-cntv/index.m3u8
 海峡卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+河南曲艺,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
@@ -122,6 +123,7 @@
 新乡县综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 舞钢综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
@@ -250,11 +252,8 @@
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 江苏卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-江苏卫视超清,http://116.115.6.103:1234/623899368?reptoken=R/mg&auth=
-广东卫视超清,http://116.115.6.103:1234/608831231?reptoken=R/mg&auth=
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
-辽宁卫视超清,http://116.115.6.103:1234/630291707?reptoken=R/mg&auth=
 辽宁卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 东南卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
