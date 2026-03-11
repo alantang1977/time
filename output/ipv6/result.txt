@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-09 11:42:53,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-03-11 11:33:45,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -2109,6 +2109,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/-/224/3221227606/index.m3u8
 女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
 女性时尚,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225699/10000100000000060000000000146059_0.smil/index.m3u8
+女性时尚,http://wangzg.synology.me:4022/rtp/239.49.8.93:8000?
 高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 高尔夫网球,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ
 高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
@@ -2137,6 +2138,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/-/224/3221227606/index.m3u8
 世界地理,http://ott.mobaibox.com/PLTV/-/224/3221228680/index.m3u8
 世界地理,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/main.m3u8?channel-id=ystenlive&Contentid=1000000000091000000244805&livemode=1&stbId=4
 世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+世界地理,http://wangzg.synology.me:4022/rtp/239.49.8.87:8000?
 兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
 兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
 兵器科技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227453/index.m3u8
@@ -2450,6 +2452,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 经典动漫,https://www.goodiptv.club/yy/22777075
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 蜡笔小新,https://live.ottiptv.cc/huya/11352970
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
