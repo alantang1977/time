@@ -1,9 +1,10 @@
-更新日期: 2026-3-11 08:01:49,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260311070622&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.212.181.82&SecurityKey=20260311070622&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=6d3363d81fceeee073dbdb0b1e110ba1&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1773183979253&prlId=4f89b0f1d885527a227fd4a636419cfe1773183979469&jid=4f89b0f1d885527a227fd4a636419cfe1773183978254V&is_advertise=0&sjid=subsession_1773183980159&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d861ceddb4e0cdfc6b3f5e3917009ed6
+更新日期: 2026-3-13 06:53:57,http://play.kankanlive.com/live/1698234869325962.m3u8
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东移动,http://183.11.239.36:808/hls/14/index.m3u8
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 衡山综合,https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
 龙山综合,https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
@@ -39,6 +40,8 @@
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -79,8 +82,12 @@
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 砚山县电视台,http://live.ynurl.com/video/s10020-ystv-zb/index.m3u8
+西畴县电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
 西畴县电视台,http://live.ynurl.com/video/s10060-XCTV/index.m3u8
 马关县电视台,http://live.ynurl.com/video/s10046-001/index.m3u8
+麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+丘北县电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+广南县电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
 广南县电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
 盈江综合,http://live.ynurl.com/video/s10016-yjtv1hd/index.m3u8
@@ -244,11 +251,8 @@
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-江苏卫视超清,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jswshd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699067&netType=4&sid=5500199408&pid=2028597139&timestamp=20260311071551&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=125.211.195.5&SecurityKey=20260311071551&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=fc9af63703d34f6fb3b4493b89696d9c&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1773184547979&prlId=4f89b0f1d885527a227fd4a636419cfe1773184547998&jid=4f89b0f1d885527a227fd4a636419cfe1773184547157V&is_advertise=0&sjid=subsession_1773184673268&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9e514d715c7e07f2755212edd53bce20
 江苏卫视超清,http://69.30.246.194/live/jsws.m3u8
 江苏卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-湖北卫视超清,http://117.72.45.109:3577/947472496?reptoken=R/mg&auth=
-广东卫视超清,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260311071340&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=125.211.195.4&SecurityKey=20260311071340&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=1bc939c50e85eb38fb47f20b5a96885f&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1773184416704&prlId=4f89b0f1d885527a227fd4a636419cfe1773184416721&jid=4f89b0f1d885527a227fd4a636419cfe1773184416041V&is_advertise=0&sjid=subsession_1773184523560&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=af2e0677b21c288cf57059bea9358cee
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 东方卫视超清,http://117.72.45.109:3577/651632648?reptoken=R/mg&auth=
