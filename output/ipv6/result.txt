@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-13 12:28:02,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-04-15 12:24:38,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1247,6 +1247,7 @@ BBC Earth,https://hls.iill.top/api/BBC-Earth/playlist.m3u8
 BBC Earth,https://live.catvod.com/live.php?id=bbcearth_twn
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+BBC Earth,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 BBC Lifestyle,https://hls-gateway.vpstv.net/streams/476671.m3u8
 BBC Lifestyle,https://hls-gateway.vpstv.net/streams/605073.m3u8
 BBC Lifestyle,https://hls-gateway.vpstv.net/streams/709100.m3u8
@@ -1278,6 +1279,7 @@ TVBS HD,https://tmxk.pp.ua/smt.php?id=tvbs
 TVBS HD,https://tzh911.qzz.io/play-smt.php?id=tvbs
 TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 TVBS HD,https://smt.go-iptv.ggff.net/smart.php?id=tvbs&token=Goiptv
+TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 中天新闻 HD,https://tmxk.pp.ua/smt.php?id=ctinews
 中天娱乐 CTI Entertaiment,https://tmxk.pp.ua/smt.php?id=ctient
 中天娱乐 CTI Entertaiment,https://live.catvod.com/live.php?id=ctient
@@ -1664,6 +1666,7 @@ AFC 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=t
 永嘉新闻综合,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-1.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-4.m3u8
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-5.ctv
 新昌新闻综合,https://t.freetv.fun/live/xin-chang-xin-wen-zong-he.m3u8
