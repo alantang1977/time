@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-15 12:24:38,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-04-17 12:21:53,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1286,6 +1286,7 @@ TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 中天综合 CTI Metro,https://tmxk.pp.ua/smt.php?id=ctizhonghe
 中天综合 CTI Metro,https://live.catvod.com/live.php?id=ctizhonghe
 中天亚洲台,https://tmxk.pp.ua/smt.php?id=ctiasia_twn
+中天亚洲台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 台视 TTV HD,https://tmxk.pp.ua/smt.php?id=ttv_taiwan
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 台视新闻台,https://tmxk.pp.ua/smt.php?id=ttvnews_twn
@@ -1302,6 +1303,7 @@ TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 民视台湾台,https://hls-gateway.vpstv.net/streams/476244.m3u8
 民视台湾台,https://tmxk.pp.ua/smt.php?id=ftvtaiwan_twn
 民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
+民视台湾台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv001&token=xiatianshigou
 华视 CTS HD,https://tmxk.pp.ua/smt.php?id=ctshd_twn
 公视 CTV,https://tmxk.pp.ua/smt.php?id=ctv18_twn
 公视 CTV,https://live.catvod.com/live.php?id=ctv18_twn
@@ -1378,6 +1380,7 @@ CINEMAX,https://live.catvod.com/live.php?id=Cinemax&token=0a04357b0ebdb7d04ea22f
 寰宇新闻台,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
 寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
 寰宇新闻台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=a5BrR5&tk=4U04NDOE13ra
+寰宇新闻台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-longturn14&token=xiatianshigou
 公视2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 公视2,https://hls-gateway.vpstv.net/streams/708888.m3u8
 公视2,https://tmxk.pp.ua/smt.php?id=ctv2_twn
@@ -1387,6 +1390,7 @@ CINEMAX,https://live.catvod.com/live.php?id=Cinemax&token=0a04357b0ebdb7d04ea22f
 龙华戏剧 Lunghua Drama,https://tmxk.pp.ua/smt.php?id=lunghuaxiju_twn
 龙华戏剧 Lunghua Drama,https://live.catvod.com/live.php?id=lunghuaxiju_twn
 龙华经典台,https://tmxk.pp.ua/smt.php?id=lunghuajingdian_twn
+龙华经典台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang21&token=xiatianshigou
 龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
 龙华偶像,https://smt.iktv.ddns-ip.net/Smart.php?id=lunghuaidol_twn
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
@@ -1485,6 +1489,7 @@ MTV Live,http://free.cnlive.club/channel/731620b3/index.m3u8
 EYETV 旅游,https://tmxk.pp.ua/smt.php?id=eyetvtravel_twn
 EYETV 旅游,https://live.catvod.com/live.php?id=eyetvtravel_twn
 靖天卡通台,https://tmxk.pp.ua/smt.php?id=jingtiancartoon_twn
+靖天卡通台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv044&token=xiatianshigou
 EYETV 戏剧,https://tmxk.pp.ua/smt.php?id=eyetvxiju_twn
 EYETV 戏剧,https://live.catvod.com/live.php?id=eyetvxiju_twn
 卫视中文台 Star Movies Chinese,https://tmxk.pp.ua/smt.php?id=weishichinese_twn
@@ -1979,6 +1984,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/-/224/3221227606/index.m3u8
 靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv055&token=xiatianshigou
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
