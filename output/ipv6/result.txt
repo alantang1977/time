@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-01 12:56:53,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-05-03 12:46:21,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1674,6 +1674,7 @@ AFC 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=t
 永嘉新闻综合,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-1.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-4.m3u8
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-5.ctv
 新昌新闻综合,https://t.freetv.fun/live/xin-chang-xin-wen-zong-he.m3u8
