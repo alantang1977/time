@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-03 12:46:21,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-05-05 12:34:56,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1135,6 +1135,7 @@ Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
 Animax,https://live.catvod.com/live.php?id=Animax
 Animax,http://tl.061833.xyz/tl/animax
 Animax,https://jp.9kds.com/Animax/index.m3u8
+Animax,https://smart.pendy.dpdns.org/Smart.php?id=Animax
 美亚电影台,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
@@ -1204,6 +1205,7 @@ Now星影台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=KqOtof&tk=4U04NDOE1
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-3.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-5.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-6.m3u8
+中天新聞台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 千禧經典台,http://tl.061833.xyz/tl/null-3
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1255,6 +1257,7 @@ BBC Lifestyle,https://hls-gateway.vpstv.net/streams/709100.m3u8
 BBC Lifestyle,https://hls-gateway.vpstv.net/streams/709577.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+BBC NEWS,http://nor2live.win:80/livehttpplay?channel_id=16531
 Bloomberg TV,http://2099.tv12.xyz/12_1764036427126.m3u8
 Bloomberg TV,https://4gtv.mytvsuper.xyz/4gtv/283
 Bloomberg TV,https://live.catvod.com/live.php?id=Bloomberg
@@ -1265,6 +1268,7 @@ Discovery Asia,https://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
 Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
 Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 Discovery Asia,https://live.catvod.com/live.php?id=Discoveryasia
+Discovery Asia,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 Discovery DMAX,https://hls-gateway.vpstv.net/streams/708900.m3u8
 Discovery Science,https://hls-gateway.vpstv.net/streams/708903.m3u8
 Eurosport,https://live.catvod.com/live.php?id=Eurosport
@@ -2554,6 +2558,7 @@ CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef3
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 水浒传,http://www.clmy.cc:35455/yy/1353873252
+水浒传,https://live.ottiptv.cc/yy/1353873252
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
