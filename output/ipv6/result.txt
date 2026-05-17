@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-15 12:55:48,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-05-17 13:00:20,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -695,12 +695,12 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
 黑龙江卫视,http://j.x.bkpcp.top/jx/HEILJHD
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873470.m3u8
 黑龙江卫视,http://z.b.bkpcp.top/m.php?id=hljws
 黑龙江卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
@@ -960,6 +960,7 @@ J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 珍珠台,https://tmxk.pp.ua/smt.php?id=pearl_twn
 珍珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 珍珠台,https://live.catvod.com/live.php?id=pearl_twn
+珍珠台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1617
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
@@ -1301,14 +1302,17 @@ TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 中天综合 CTI Metro,https://live.catvod.com/live.php?id=ctizhonghe
 中天亚洲台,https://tmxk.pp.ua/smt.php?id=ctiasia_twn
 中天亚洲台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
+中天亚洲台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1967
 台视 TTV HD,https://tmxk.pp.ua/smt.php?id=ttv_taiwan
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 台视新闻台,https://tmxk.pp.ua/smt.php?id=ttvnews_twn
 台视综合台,https://tmxk.pp.ua/smt.php?id=ttvzhonghe
+台视综合台,http://xsmt.ccwu.cc/xsmt/smt.php?id=745
 中视 HD,https://tmxk.pp.ua/smt.php?id=zhongshihd_twn
 中视 HD,https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中视新闻台,https://tmxk.pp.ua/smt.php?id=zhongshinews_twn
+中视新闻台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1989
 民视 HD,https://tmxk.pp.ua/smt.php?id=ftvhd_taiwan
 民视 HD,https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
 民视新闻台 FTV News,https://tmxk.pp.ua/smt.php?id=ftvnew_taiwan
@@ -1318,6 +1322,8 @@ TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 民视台湾台,https://tmxk.pp.ua/smt.php?id=ftvtaiwan_twn
 民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
 民视台湾台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv001&token=xiatianshigou
+民视台湾台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2033
+民视台湾台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv001&token=https://t.me/GPT_858
 华视 CTS HD,https://tmxk.pp.ua/smt.php?id=ctshd_twn
 公视 CTV,https://tmxk.pp.ua/smt.php?id=ctv18_twn
 公视 CTV,https://live.catvod.com/live.php?id=ctv18_twn
@@ -1346,11 +1352,13 @@ Hollywood Movies,https://live.catvod.com/live.php?id=hollywoodmovies_twn
 三立台湾 Sanli Taiwan,https://live.catvod.com/live.php?id=sanlitaiwan
 三立戏剧台,https://tmxk.pp.ua/smt.php?id=sanlixiju_twn
 三立戏剧台,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
+三立戏剧台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2236
 三立综合 Sanli Metro,https://tmxk.pp.ua/smt.php?id=sanlizhonghe
 三立综合 Sanli Metro,https://live.catvod.com/live.php?id=sanlizhonghe
 三立都会台,https://hls-gateway.vpstv.net/streams/476232.m3u8
 三立都会台,https://tmxk.pp.ua/smt.php?id=sanlidouhui
 三立都会台,https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
+三立都会台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2026
 东森新闻 ETTV News,https://tmxk.pp.ua/smt.php?id=ettvnews
 东森新闻 ETTV News,https://live.catvod.com/live.php?id=ettvnews
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn&token=1f716d05554dfa266c198dfcf2de0f79cc4b56979d877f1503f8a8e98b6a2355%3A1763342477%3ANTIuMTczLjIzNy4yMTE%3D
@@ -1395,11 +1403,15 @@ CINEMAX,https://live.catvod.com/live.php?id=Cinemax&token=0a04357b0ebdb7d04ea22f
 寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
 寰宇新闻台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=a5BrR5&tk=4U04NDOE13ra
 寰宇新闻台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-longturn14&token=xiatianshigou
+寰宇新闻台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2501
+寰宇新闻台,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 公视2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 公视2,https://hls-gateway.vpstv.net/streams/708888.m3u8
 公视2,https://tmxk.pp.ua/smt.php?id=ctv2_twn
 公视2,https://live.catvod.com/live.php?id=ctv2_twn
+公视2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2830
 大爱1台,https://tmxk.pp.ua/smt.php?id=daai_twn
+大爱1台,http://xsmt.ccwu.cc/xsmt/smt.php?id=550
 非凡新闻台,https://tmxk.pp.ua/smt.php?id=feifannews_twn
 龙华戏剧 Lunghua Drama,https://tmxk.pp.ua/smt.php?id=lunghuaxiju_twn
 龙华戏剧 Lunghua Drama,https://live.catvod.com/live.php?id=lunghuaxiju_twn
@@ -1434,9 +1446,13 @@ AXN Taiwan,http://free.cnlive.club/channel/n4e27c899/index.m3u8
 年代新闻,https://stream1.freetv.fun/nian-dai-xin-wen-7.ctv
 年代新闻,https://live.catvod.com/live.php?id=niandainews_twn&token=6940d2120c3205a14b780d4487d62530f5263f61eb3b67cdce3ef7050943abc4%3A1763861916%3AMTcyLjE4My45NS4xNDc%3D
 纬来日本台,https://tmxk.pp.ua/smt.php?id=videolandjapan
+纬来日本台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2048
 纬来电影台,https://tmxk.pp.ua/smt.php?id=videolandmovie
+纬来电影台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2049
 纬来体育台,https://tmxk.pp.ua/smt.php?id=videolandsport
+纬来体育台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2051
 纬来综合台,https://tmxk.pp.ua/smt.php?id=videolandzonghe
+纬来综合台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2053
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
@@ -1458,6 +1474,7 @@ AXN Taiwan,http://free.cnlive.club/channel/n4e27c899/index.m3u8
 纬来精彩,https://live.catvod.com/live.php?id=videolandspecial_twn&token=553f7388339de815a22314565c3b379bb440cb1ae1a3e1d61fb7ba1e03bbc76d%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 纬来精彩,https://live.catvod.com/live.php?id=videolandspecial_twn&token=bbb14fc7a65864c65a79f4a76c5bfbc74d50e6973e7001ecf7cd575b24d96534%3A1764379082%3AMTM1LjExOS4yMzYuNTE%3D
 大爱2台,https://tmxk.pp.ua/smt.php?id=daai2_twn
+大爱2台,http://xsmt.ccwu.cc/xsmt/smt.php?id=508
 亚洲美食,https://smt.iktv.ddns-ip.net/Smart.php?id=afc_twn
 亚洲美食,https://live.catvod.com/live.php?id=afc_twn&token=f23f53a9388141912a0e44d802181e272930eab63c9987e4a8af260021f9a8af%3A1763342477%3ANTIuMTczLjIzNy4yMTE%3D
 亚洲美食,https://live.catvod.com/live.php?id=afc_twn&token=5c271b89748b23cd0fc1f7562a576c7ed0135ba4e3c937f544ec4fbe70ff51e2%3A1763515103%3AMTcyLjE4NC4xNzMuMjQz
@@ -1500,12 +1517,15 @@ MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
 MTV Live,https://live.catvod.com/live.php?id=mtvhd_twn
 MTV Live,http://free.cnlive.club/channel/731620b3/index.m3u8
 MTV Live,https://v.iill.top/api/MTV-Live/index.m3u8
+MTV Live,http://kaniptv.com/xz/xz_f09181ac93/wwkds.php?id=mtv
 龙详时代,https://tmxk.pp.ua/smt.php?id=lungxiangtime_twn
 龙详时代,https://live.catvod.com/live.php?id=lungxiangtime_twn
 EYETV 旅游,https://tmxk.pp.ua/smt.php?id=eyetvtravel_twn
 EYETV 旅游,https://live.catvod.com/live.php?id=eyetvtravel_twn
 靖天卡通台,https://tmxk.pp.ua/smt.php?id=jingtiancartoon_twn
 靖天卡通台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv044&token=xiatianshigou
+靖天卡通台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1585
+靖天卡通台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv044&token=https://t.me/GPT_858
 EYETV 戏剧,https://tmxk.pp.ua/smt.php?id=eyetvxiju_twn
 EYETV 戏剧,https://live.catvod.com/live.php?id=eyetvxiju_twn
 卫视中文台 Star Movies Chinese,https://tmxk.pp.ua/smt.php?id=weishichinese_twn
