@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-17 13:00:20,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-05-19 13:07:38,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -2582,6 +2582,7 @@ CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef3
 西游记,https://live.metshop.top/huya/26355861
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861
 西游记,https://lbds.us.ci/26355861
+西游记,http://live.ottiptv.cc/huya/20985836
 三国演义,https://live.iill.top/huya/11602081
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,https://live.ottiptv.cc/huya/11602081
@@ -2590,6 +2591,7 @@ CCTV-15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef3
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://live.ottiptv.cc/yy/1353873252
+水浒传,http://live.ottiptv.cc/huya/26355860
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
