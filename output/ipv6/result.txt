@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 13:33:11,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+2026-07-01 13:25:37,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 🍄┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -1106,6 +1106,7 @@ TVBS新闻,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv072/index.m3u8
 TVBS新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
 TVBS新闻,https://4gtv.158.qzz.io/163189/c8e17fe8-dcc5-426b-ae9a-a898fe305d30/
 TVBS新闻,https://4g.158.qzz.io/163189/351e8567ea4a6f99
+TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
 TVBS欢乐,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv068/index.m3u8
 TVBS欢乐,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv068
